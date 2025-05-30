@@ -14,12 +14,6 @@ Um projeto simples e moderno de **relógio digital** em tempo real, feito com **
 
 ---
 
-## 📷 Preview
-
-![Preview do Relógio](./assets/img/preview.png) <!-- Substitua com o caminho real se desejar mostrar a imagem -->
-
----
-
 ## 📁 Estrutura de Arquivos
 
 ```
